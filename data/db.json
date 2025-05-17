@@ -2,18 +2,19 @@
   "users": [
     {
       "id": 1,
-      "usuario": "John Doe",
+      "user": "John Doe",
       "email": "john.due@gmail.com"
     }
   ],
   "heroes": [
     {
       "id": "dc-batman",
-      "superhero": "Batman",
+      "superhero": "MartosMan",
       "publisher": "DC Comics",
       "alter_ego": "Bruce Wayne",
       "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
+      "characters": "dfsafasdf",
+      "alt_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbycSWowJaVO0A9EeCGXP7rQgZgiqVgVePmQ&s"
     },
     {
       "id": "dc-superman",
@@ -166,6 +167,24 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "gW3NFZF",
+      "superhero": "Un ejemplo",
+      "publisher": "DC Comics",
+      "alter_ego": "Otro nombre",
+      "first_appearance": "2005",
+      "characters": "Muchos",
+      "alt_img": "https://img.freepik.com/vector-gratis/ejemplo-lindo-icono-historieta-muchacha-superheroe_138676-2431.jpg"
+    },
+    {
+      "id": "X5kB3A3",
+      "superhero": "vsdagf",
+      "publisher": "DC Comics",
+      "alter_ego": "xcvzcxv",
+      "first_appearance": "zxvzxc",
+      "characters": "zxcvzxcv",
+      "alt_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2v884uE0nLalhRnEUafWx549H8ZZKjaxbnA&s"
     }
   ]
 }
